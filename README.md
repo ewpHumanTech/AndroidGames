@@ -13,7 +13,7 @@ Phone Screenshot below: It is tongue-in-cheek game depicting Trump stomping on t
 ![image](https://github.com/ewpHumanTech/AndroidGames/assets/170042205/f8a8304a-1695-4eb5-9170-52492e9b7b15)
 
 
-## How to Have a Little Fun
+## How You can Have a Little Fun too (Installation Steps)
 1. Download the Android game [here](https://drive.google.com/file/d/1Ygk929tzVR9iAE7U0VkcOKCkOS6pF8Ra/view?usp=drive_link).
 2. Enable app installs from Unknown Sources on Android:
 Go to Settings > Security.
