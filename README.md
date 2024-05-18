@@ -10,8 +10,9 @@ I can recreate the code upon request; it originally took me about four hours on 
 ## What the Game Looks Like
 Phone Screenshot below: It is tongue-in-cheek game depicting Trump stomping on the Euro. Of course, this was during a period when Euros were weak against Dollars.
 
-![image](https://github.com/ewpHumanTech/AndroidGames/assets/170042205/f8a8304a-1695-4eb5-9170-52492e9b7b15)
-
+| Device View | In-Game View |
+| ------- | ------- |
+| <img width="328" alt="image" src="https://github.com/ewpHumanTech/AndroidGames/assets/170042205/1e0d6354-7110-4335-a08e-10791cd9b310"> | <img width="447" alt="image" src="https://github.com/ewpHumanTech/AndroidGames/assets/170042205/971d8321-262a-457f-be27-ed62252fafa3"> |
 
 ## How You can Have a Little Fun too (Installation Steps)
 1. Download the Android game [here](https://drive.google.com/file/d/1Ygk929tzVR9iAE7U0VkcOKCkOS6pF8Ra/view?usp=drive_link).
